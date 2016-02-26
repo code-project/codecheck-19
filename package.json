@@ -1,0 +1,15 @@
+{
+  "name" : "line-challenge-A1",
+  "version" : "1.0.0",
+  "description" : "MarkdownTest for Line challenge1",
+  "scripts" : {
+    "test" : "mocha"
+  },
+  "keywords" : [ "codecheck", "markdownTest" ],
+  "author" : "Givery.inc",
+  "license" : "ISC",
+  "devDependencies" : {
+    "chai" : "^3.2.0",
+    "codecheck" : "^0.3.0"
+  }
+}

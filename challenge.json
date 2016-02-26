@@ -1,0 +1,6 @@
+{
+  "markdownTest" : [ "challenge1.md" ],
+  "allowRunTest" : false,
+  "allowNewFile" : false,
+  "test" : "mocha"
+}
